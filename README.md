@@ -1,5 +1,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felipe-rinaldini-santos/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.rinaldini@gmail.com)](mailto:felipe.rinaldini@gmail.com)
+
+
+
+
 
 <!--**fe-sts/fe-sts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 💻 My GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fe-sts&count_private=true&theme=tokyonight&showicons=true&hide=prs,issues,contribs)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fe-sts&langs_count=6&theme=tokyonight&layout=compact)]()
