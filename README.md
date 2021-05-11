@@ -13,8 +13,6 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fe-sts&count_private=true&theme=tokyonight&showicons=true&hide=prs,issues,contribs)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fe-sts&langs_count=6&theme=tokyonight&layout=compact)]()
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@envoy/08947c0c-d7f7-4ef3-855b-b6687f44df6c.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@envoy/c6823c8e-c74a-47b0-bd13-005bc951e1f5.png" /></a>
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
