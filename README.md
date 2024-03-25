@@ -3,10 +3,6 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.rinaldini@gmail.com)
 
 
-- 🔭 I’m currently working on environmental management.
-- 👯 I intend to make a career transition to the technology area, mainly requiring Python skills 
-
-
 
 ## 💻 My GitHub Stats
 
